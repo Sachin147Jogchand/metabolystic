@@ -5,6 +5,7 @@ var logger = require('morgan')
 var app = express()
 var indexRouter = require('./routes/index')
 const connectDB = require('./config/config'); // Import MongoDB connection
+require('dotenv').config();
 
 connectDB();
 
