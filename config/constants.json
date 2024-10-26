@@ -1,0 +1,11 @@
+{
+    "mailer_username": "info@liquidiq.ai",
+    "mailer_password": "jltz gfal qgfy wrjc",
+    "admin_official_email": "info@liquidiq.ai",
+    "reminderMailDuedays": 10,
+    "reminderMailCronJobMinute": "59",
+    "reminderMailCronJobHour": "23",
+    "time_zone": "Asia/Calcutta",
+    "time_zone1": "America/Los_Angeles",
+    "SERVER_URL" : "http://34.121.243.86"
+}
